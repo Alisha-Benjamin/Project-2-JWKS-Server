@@ -1,7 +1,7 @@
 # Project-2-JWKS-Server<br/>
 Alisha Benjamin - anb0369 - alishabenjamin@my.unt.edu<br/>
 CSCE 3550 - Foundations of Cyber Security<br/>
-Project 1 - Basic JWKS Server<br/>
+Project 2 - Basic JWKS Server<br/>
 Language: Python<br/>
 
 This project implements a JSON Web Key Set (JWKS) server using a SQLite database to store RSA private keys in PKCS1 PEM format. The server provides JWT signing functionality using these keys, and it allows the retrieval of public keys via a standard `.well-known/jwks.json` endpoint.<br/>
